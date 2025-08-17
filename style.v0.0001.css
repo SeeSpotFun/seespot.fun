@@ -1,6 +1,6 @@
 /* Fullscreen background image */
 .bg-image {
-  background: url('AlienLightCycle.jpg') no-repeat center center fixed;
+  background: url('AlienLightCycle.jpeg') no-repeat center center fixed;
   background-size: cover;
   position: fixed;
   top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0;
